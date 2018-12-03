@@ -1,0 +1,7 @@
+.movie-detail .img-poster{
+  width: 100%;
+  height: 100%;
+}
+.movie-detail .detail-content div{
+  margin-bottom: 5px;
+}

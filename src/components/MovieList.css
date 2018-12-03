@@ -1,0 +1,17 @@
+.img-poster{
+  width: 60px;
+  height: 80px;
+  margin: 8px auto;
+}
+.grid-movie{
+  margin-top:10px;
+}
+.grid-movie .row:nth-child(odd){
+  background-color: rgb(238, 238, 238);
+}
+.grid-movie .row:hover{
+  cursor: pointer;
+}
+.grid-movie .row{
+  border: 1px solid rgb(238, 238, 238);
+}
